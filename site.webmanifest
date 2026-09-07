@@ -1,0 +1,15 @@
+{
+  "name": "Aman Tailor - Ladies Tailor in Amritsar",
+  "short_name": "Aman Tailor",
+  "description": "Third-generation ladies tailor in Amritsar since 1925. Suit, salwar, kurti and blouse stitching, designer tailoring, alterations and worldwide delivery.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fcf8f1",
+  "theme_color": "#6f1d38",
+  "lang": "en-IN",
+  "icons": [
+    { "src": "/favicon/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/favicon/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
